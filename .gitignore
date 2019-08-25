@@ -69,3 +69,6 @@ cmake-build-debug/cmake_install.cmake
 cmake-build-debug/CMakeCache.txt
 cmake-build-debug/Makefile
 CMakeLists.txt
+.idea/.name
+cmake-build-debug/CMakeFiles/anagrams_v1c7or20.dir/CXX.includecache
+cmake-build-debug/CMakeFiles/anagrams_v1c7or20.dir/depend.internal
